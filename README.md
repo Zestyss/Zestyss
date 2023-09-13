@@ -1,4 +1,4 @@
-## Olá! Bem-vindo(a) ao meu perfil no GitHub 🐈‍⬛
+## Olá! Bem-vindo(a) ao meu perfil do GitHub 🐈‍⬛
 
 <div>
   <a href="https://github.com/anthony1dev">
