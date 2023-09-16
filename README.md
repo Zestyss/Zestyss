@@ -2,9 +2,9 @@
 
 ## About me:
 - 🧑‍🦰 I am 21 years old.
-- 🧑‍💻 I am studying Computer Science 6/8.
-- 🎨 I am a Illustrator.
-- 🎮 I am a Streamer.
+- 🧑‍💻 I'm studying Computer Science 6/8.
+- 🎨 I'm a Illustrator.
+- 🎮 I'm a Streamer.
 
 <div>
   <a href="https://github.com/anthony1dev">
