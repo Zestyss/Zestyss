@@ -2,7 +2,7 @@
 
 ## About me:
 - 🧑‍🦰 I am 21 years old.
-- 🧑‍💻 I am studying computer science 6/8.
+- 🧑‍💻 I am studying Computer Science 6/8.
 - 🎨 I am a Illustrator.
 - 🎮 I am a Streamer.
 
