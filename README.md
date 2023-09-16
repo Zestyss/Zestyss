@@ -20,6 +20,6 @@
   <a href="https://twitter.com/_aioria" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/anthony1dev/anthony1dev/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/anthony1dev/anthony1dev/blob/output/github-contribution-grid-snake.gif)
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=anthony1dev&repo=anthony1dev&theme=dark)](https://anthony1dev/anthony1dev)
