@@ -6,6 +6,9 @@
 - 🎨 I'm a Illustrator.
 - 🎮 I'm a Streamer.
 
+## Language I'm learning:
+- 🖥️ HTML and CSS
+
 <div>
   <a href="https://github.com/anthony1dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthony1dev&show_icons-true&theme=dark&include_all_commits=true&count_private=true"/>
