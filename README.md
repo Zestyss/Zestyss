@@ -27,7 +27,7 @@
   <img align="center" alt="Anthony-SpringBoot" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Anthony-BootStrap" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Anthony-Git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-  <img align="center" alt="Anthony-Github" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Anthony-Github" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   
 #
 
