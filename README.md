@@ -1,8 +1,8 @@
-# Hi! Welcome to my profile! 🐈‍⬛
+# Hi! Welcome to my profile!
 
 ## About me:
-- 🧑‍🦰 I am 21 years old.
-- 🧑‍💻 I'm studying Computer Science 6/8.
+- 👨‍💻 I am 22 years old.
+- 💻 I'm studying Computer Science 6/8.
 - 🎨 I'm a Illustrator.
 - 🎮 I'm a Streamer.
 
