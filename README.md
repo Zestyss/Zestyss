@@ -2,9 +2,9 @@
 
 ## About me:
 - 👨‍💻 I am 22 years old.
-- 💻 I'm studying Computer Science 6/8.
+- 💻 I'm studying Computer Science 7/8.
 - 🎨 I'm a Illustrator.
-- 🎮 I'm a Streamer.
+- 🖊 I'm a Designer.
 
 ## Language I'm learning:
 - 🖥️ HTML and CSS
